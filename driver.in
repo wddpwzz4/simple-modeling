@@ -1,0 +1,8 @@
+ &tstep  
+ output='/Users/liuzhiqiang/Desktop/modeling/AO/output/'               
+ tsd_a=10
+ tsd_o=5
+ num=1000
+ temp0_a=0
+ temp0_o=0
+ &end
