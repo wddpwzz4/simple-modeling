@@ -1,2 +1,2 @@
 # simple-modeling
-##model construction
+## model construction
